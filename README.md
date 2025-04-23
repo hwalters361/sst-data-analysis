@@ -21,5 +21,5 @@ This is the dataset that is currently being used in our 3DViT pipeline to try an
 
 [ChaosBench](https://leap-stc.github.io/ChaosBench/dataset.html)
 
-![table comparing datasets](images/table.png)
+![table comparing datasets](table.png)
 
